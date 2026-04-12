@@ -8,7 +8,7 @@ import comtradeapicall
 
 # set some variables
 # comtrade api subscription key (from comtradedeveloper.un.org), some preview and metadata/reference API calls do not require key
-subscription_key = '<YOUR KEY>'
+subscription_key = '<111>'
 directory = '<OUTPUT DIR>'  # output directory for downloaded files
 proxy_url = '<PROXY URL>'  # optional if you need a proxy server
 
